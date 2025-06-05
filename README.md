@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @tommzv
-- 👀 I’m interested in a lot of things! 
+🇬🇧 Based in the United Kingdom
+🎓 First Class BSc Cyber Security
+
 
 <!---
 tommzv/tommzv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
