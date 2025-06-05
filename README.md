@@ -1,4 +1,4 @@
-🇬🇧 Based in the United Kingdom
+🇬🇧 Based in the United Kingdom <br>
 🎓 First Class BSc Cyber Security
 
 
